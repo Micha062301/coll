@@ -1,3 +1,5 @@
+//A simple C++ budget tracker to manage expenses, track income, and stay financially organized.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
